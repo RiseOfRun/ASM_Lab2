@@ -1,8 +1,7 @@
 .386
 .MODEL FLAT
 .data
-sizeA dw ?
-sizeB dw ?
+
 
 .CODE
 @TestString@8	PROC
